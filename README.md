@@ -1,4 +1,4 @@
-# MovieWise
+# Moviewise
 
 ## Overview
 This project is a web application that helps people manage their movie collections. The backend is built with Java and MongoDB, while the frontend is developed using React and JavaScript.
