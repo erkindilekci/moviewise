@@ -4,6 +4,7 @@
 This project is a web application that helps people manage their movie collections. The backend is built with Java and MongoDB, while the frontend is developed using React and JavaScript.
 
 ## Screenshot
+![313462616-76ffc4d0-7a87-46df-8b92-f60942a719a7](https://github.com/user-attachments/assets/698241ba-8698-4bdc-a90d-2b335bb74246)
 
 ## Technologies
 
